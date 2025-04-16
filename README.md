@@ -10,3 +10,11 @@ Unlike traditional fractal encoding which expands outward, this approach folds d
 
 - `Compresion_Fractal_Inversa_COMPLETO.pdf`: full explanation of the concept, math, algorithm and results.
 - `fractal_implosivo.py`: the Python implementation with encoding, quantum simulation, and recovery tests.
+
+## Contact
+
+For collaboration, research inquiries, or licensing:
+
+**Alejandro Efraín Kurday (Zenith)**  
+Email: ale.efra.kur@gmail.com  
+Argentina
